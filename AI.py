@@ -1,5 +1,5 @@
 #pip install pyttsx3
-#pip insall SpeechRecognition
+#pip install SpeechRecognition
 # python -m pip install pyaudio
 # pip install pywin32
 #pip install smtplib 
